@@ -5,7 +5,7 @@
 }
 
 html, body {
-  height: 40%;
+  height: 100%;
   width: 100%;
   font-family: 'Segoe UI', sans-serif;
   scroll-behavior: smooth;
@@ -14,7 +14,7 @@ html, body {
 
 .galaxy-header {
   position: relative;
-  height: 40vh; /* Only 25% of screen height */
+  height: 100vh; /* Only 25% of screen height */
   width: 100%;
   overflow: hidden;
   display: flex;
