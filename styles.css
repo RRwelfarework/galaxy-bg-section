@@ -14,7 +14,7 @@ html, body {
 
 .galaxy-header {
   position: relative;
-  height: 25vh; /* Only 25% of screen height */
+  height: 40vh; /* Only 25% of screen height */
   width: 100%;
   overflow: hidden;
   display: flex;
