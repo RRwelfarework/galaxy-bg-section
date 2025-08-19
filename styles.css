@@ -14,7 +14,7 @@ html, body {
 
 .galaxy-header {
   position: relative;
-  height: 25vh; /* Only 25% of screen height */
+  height: 100vh; /* Full viewport height */
   width: 100%;
   overflow: hidden;
   display: flex;
@@ -97,7 +97,7 @@ html, body {
 }
 
 .subtext {
-  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  font-size: clamp(1rem, 2vw, 1.5rem);
   margin-top: 1rem;
   color: #FFDB58;
   -webkit-text-stroke: 0.0001px red;
