@@ -22,7 +22,7 @@ html, body {
   align-items: center;
   color: #000000;
   text-align: center;
-  padding: 2rem;
+  padding: 0rem;
 }
 
 
@@ -67,11 +67,21 @@ html, body {
 .header-content {
   position: relative;
   z-index: 3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
   max-width: 900px;
   text-align: center;
   font-family: 'Monotype Corsiva', cursive, sans-serif;
   margin: 2rem auto;
+  flex-wrap: wrap;
 }
+
+
+
+
+
 
 /* Main Header */
 .glow-text {
