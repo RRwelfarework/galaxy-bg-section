@@ -145,3 +145,65 @@ html, body {
 }
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Logo Styles */
+.logo {
+  width: 80px;
+  height: auto;
+  object-fit: contain;
+  transition: transform 0.3s ease, filter 0.3s ease;
+  cursor: pointer;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+  filter: drop-shadow(0 0 8px #ffdb58);
+}
+
+/* Text Container */
+.text-container {
+  text-align: center;
+  color: #fff;
+}
+
+
+
+/* Responsive */
+@media (max-width: 768px) {
+  .header-content {
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  .logo {
+    width: 60px;
+  }
+
+  .glow-text {
+    font-size: 2.5rem;
+  }
+
+  .subtext {
+    font-size: 1rem;
+  }
+}
+
