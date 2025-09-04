@@ -9,7 +9,7 @@ html, body {
   width: 100%;
   font-family: 'Segoe UI', sans-serif;
   scroll-behavior: smooth;
-  background-color: #FF000080;
+  background-color: #000000;
 }
 
 .galaxy-header {
@@ -20,7 +20,7 @@ html, body {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #FF000080;
+  color: #000000;
   text-align: center;
   padding: 0rem;
 }
@@ -212,4 +212,5 @@ html, body {
   }
 
 }
+
 
