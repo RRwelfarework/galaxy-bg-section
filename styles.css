@@ -120,7 +120,7 @@ html, body {
 
 /* Logo Styles */
 .logo {
-  width: 110px;
+  width: 150px;
   height: auto;
   object-fit: contain;
   transition: transform 0.3s ease, filter 0.3s ease;
