@@ -71,7 +71,7 @@ html, body {
   align-items: center;
   justify-content: center;
   gap: 5px;
-  max-width: 900px;
+  max-width: 1400px;
   text-align: center;
   font-family: 'Monotype Corsiva', cursive, sans-serif;
   margin: 2rem auto;
@@ -212,6 +212,3 @@ html, body {
   }
 
 }
-
-
-
