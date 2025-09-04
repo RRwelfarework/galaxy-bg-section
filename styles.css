@@ -179,3 +179,26 @@ html, body {
 }
 
 
+@media (max-width: 680px) {
+  .logo {
+    width: 40px;
+  
+}
+}
+
+@media (max-width: 680px) {
+  .glow-text {
+    font-size: 2.5rem;
+  }
+  .subtext {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 420px) {
+  .glow-text {
+    font-size: 1.4rem;
+  }
+}
+
+
